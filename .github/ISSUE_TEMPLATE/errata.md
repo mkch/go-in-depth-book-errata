@@ -1,6 +1,6 @@
 ---
 name: Errata
-about: 在此描述书中的错误。
+about: 创建一个勘误 issue。
 title: ''
 labels: content
 assignees: mkch
