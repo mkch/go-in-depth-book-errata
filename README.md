@@ -2,7 +2,7 @@
 
 本仓库收录了《深入理解Go语言——规范、原理与实践》一书的勘误。
 
-![image](res/image/cover_transparent.png)
+![image](res/image/banner.jpg)
 
 > [!NOTE]
 > 此仓库仅收录“勘误”信息，不接受任何修改和增补建议。
