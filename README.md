@@ -2,8 +2,11 @@
 
 本仓库收录了《深入理解Go语言——规范、原理与实践》一书的勘误。
 
-![image](res/image/banner.jpg)
-[购书链接](https://e.tb.cn/h.ijkaVYuLDbr3atA?tk=KmyP51LFjEb)
+[![banner](res/image/banner.jpg)](https://e.tb.cn/h.ijkaVYuLDbr3atA?tk=KmyP51LFjEb)
+
+[>>> 购书链接 <<<](https://e.tb.cn/h.ijkaVYuLDbr3atA?tk=KmyP51LFjEb)
+
+---
 
 > [!NOTE]
 > 此仓库仅收录“勘误”信息，不接受任何修改和增补建议。
