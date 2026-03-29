@@ -6,6 +6,8 @@
 
 [>>> 购书链接 <<<](https://e.tb.cn/h.ijkaVYuLDbr3atA?tk=KmyP51LFjEb)
 
+[>>> 淘宝二维码 <<<](res/image/tb_code_image.png)
+
 ---
 
 > [!NOTE]
